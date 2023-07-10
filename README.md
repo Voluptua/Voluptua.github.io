@@ -1,3 +1,3 @@
-# Genox2008.github.io
+# Albanish for beginners
 
-pls gimme coke
+Ta qi nanen
