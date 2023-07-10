@@ -1,3 +1,1 @@
-# Albanish for beginners
-
-Ta qi nanen
+# nothing to see here...
