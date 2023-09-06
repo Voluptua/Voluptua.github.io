@@ -1,9 +1,5 @@
 /* Font family */
-* {
-    font-family: Arial;
-}
-
-h1 {
+h1.h2 {
     font-family: 'Courier New';
 }
 
