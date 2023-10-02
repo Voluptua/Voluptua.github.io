@@ -1,4 +1,9 @@
 /* Font family */
-h1 {
-    font-family: 'Courier New';
+* {
+    font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+    text-align: center;
+}
+
+body {
+    background-image: url("bg.png");
 }
